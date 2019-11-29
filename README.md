@@ -14,7 +14,7 @@ Using a websites favicon as icon for the executable is not enough. It won´t sca
 
 ##### Renaming the Exe
 
-When you apply your changes the executable will be renamed according the value of "OriginalFilename". So better check twice that it is named correctly.
+When you apply your changes the executable will be renamed according the value of "OriginalFilename". So better check twice that the value of this field is set correctly.
 
 ## Author
 
