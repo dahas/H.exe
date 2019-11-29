@@ -4,7 +4,7 @@ The purpose of Hexe is to rebrand the "electron.exe" in a simple manner. It is a
 
 ## Setup
 
-Download the installer from [here](https://github.com/dahas/Hexe/tree/master/setup/install.exe).
+Download the installer from [here](https://github.com/dahas/Hexe/tree/master/setup/hexe.zip).
 
 ## Notes
 
