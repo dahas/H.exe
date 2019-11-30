@@ -42,7 +42,7 @@ if (!gotTheLock) {
       width: 515,
       height: 450,
       // frame: false,
-      title: 'Hexe',
+      title: 'H.exe',
       icon: __dirname + '/dist/favicon.ico',
       webPreferences: {
         webSecurity: false,
