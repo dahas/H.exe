@@ -1,6 +1,6 @@
 # Hexe
 
-The purpose of Hexe is to rebrand the "electron.exe" in a simple manner. It is a GUI that uses Electrons "rcedit" in the background.
+The purpose of Hexe is to rebrand executables compiled with NodeJS (like: nexe, pkg, electron) in a simple manner. It is a GUI that uses Electrons "rcedit" in the background.
 
 ## Setup
 
