@@ -4,7 +4,7 @@ The purpose of Hexe is to rebrand executables compiled with NodeJS (like: nexe, 
 
 ## Setup
 
-The easiest way to setup and use Hexe is with the [installer](https://github.com/dahas/Hexe/releases/download/v1.0/install.exe). Alternatively you can download the resources from here and run "H.exe".
+The easiest way to setup and use Hexe is with the installer from [here](https://github.com/dahas/Hexe/releases). Alternatively you can download the resources as a zip-archive. Run "H.exe" after extracting it.
 
 ## Notes
 
