@@ -2,6 +2,8 @@
 
 The purpose of Hexe is to rebrand executables compiled with NodeJS (like: nexe, pkg, electron) in a simple manner. It is a GUI that uses Electrons "rcedit" in the background.
 
+![H.exe](https://github.com/dahas/Hexe/blob/assets/hexe.png?raw=true)
+
 ## Setup
 
 The easiest way to setup and use Hexe is with the installer from [here](https://github.com/dahas/Hexe/releases). Since the installer file is not signed you can alternatively download the resources as a zip-archive. Run "H.exe" after extracting it.
